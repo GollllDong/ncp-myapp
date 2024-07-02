@@ -184,7 +184,7 @@ Dashboard
   - General
     - 설명: `빌드 테스트1`
     - `GitHub project` 체크
-      - Project url: `https://github.com/GollllDong/ncp-myapp.git`
+      - Project url: `https://github.com/GollllDong/ncp-myapp`
   - 소스 코드 관리
     - `Git` 선택
       - Repository URL: `https://github.com/GollllDong/ncp-myapp.git`
